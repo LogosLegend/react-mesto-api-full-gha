@@ -23,7 +23,7 @@ app.use(cors({
   ],
   allowedHeaders: ["Content-Type", "Authorization"],
   method: "GET,HEAD,PUT,PATCH,POST,DELETE",
-  credentials: true,
+  credentials: true
 }));
 
 app.use(cookieParser());
