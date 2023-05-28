@@ -5,12 +5,12 @@
   
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-Адрес репозитория: https://github.com/...
+Адрес репозитория: [https://github.com/...](https://github.com/LogosLegend/react-mesto-api-full-gha)
 
 ## Ссылки на проект
 
-IP-адрес x.x.x.x
+IP-адрес 51.250.75.28
 
-Frontend https://...
+Frontend [https://...](https://logos.nomoredomains.rocks/)
 
-Backend https://...
+Backend [https://...](https://api.logos.nomoredomains.rocks/)
