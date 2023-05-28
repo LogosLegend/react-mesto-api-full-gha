@@ -1,0 +1,24 @@
+.button-close {
+  position: absolute;
+  background: url(../../images/close-icon.svg) no-repeat;
+  min-width: 32px;
+  min-height: 32px;
+  display: flex;
+  left: 100%;
+  bottom: 100%;
+  margin: 8px;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 530px) {
+  .button-close {
+    left: calc(100% - 20px);
+    margin: 0 0 16px;
+    min-width: 20px;
+    min-height: 20px;
+    background-size: 20px 20px;
+  }
+}
